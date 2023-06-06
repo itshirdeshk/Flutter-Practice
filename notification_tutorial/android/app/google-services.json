@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880464757336",
+    "project_id": "flutter-notification-a15e5",
+    "storage_bucket": "flutter-notification-a15e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880464757336:android:51e56e3beda76fe999002d",
+        "android_client_info": {
+          "package_name": "com.hirdesh.notification_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880464757336-l3r55i56pc9go144351i336r0urr92k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYWIA1RGO2-K2-qOB9I2aicQPQKJ2EVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880464757336-l3r55i56pc9go144351i336r0urr92k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

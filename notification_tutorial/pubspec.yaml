@@ -1,0 +1,24 @@
+name: notification_tutorial
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  app_settings: ^4.2.0
+  firebase_core: ^2.13.0
+  firebase_messaging: ^14.6.1
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^14.1.0
+  http: ^0.13.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
